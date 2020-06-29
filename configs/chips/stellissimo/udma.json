@@ -5,7 +5,7 @@
 
   "nb_periphs": 7,
 
-  "interfaces" : ["spim", "i2c", "i2s", "uart", "cpi"],
+  "interfaces" : ["spim", "i2c", "uart", "cpi"],
 
   "properties": {
     "l2_read_fifo_size": 8
