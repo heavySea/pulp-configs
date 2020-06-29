@@ -1,0 +1,18 @@
+{
+  "includes": [ "chips/stellissimo/stellissimo.json" ],
+
+  "soc": {
+    "fc": {
+      "core"        : "ibex"
+    }
+  },
+
+  "config": {
+
+    "install_name": "stellissimo_ibex",
+
+    "vsim": {
+      "tcl_args": ["-gCORE_TYPE=1"]
+    }
+  }
+}

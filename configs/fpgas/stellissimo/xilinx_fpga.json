@@ -1,0 +1,14 @@
+{
+  "includes": [ "chips/stellissimo/stellissimo.json" ],
+
+  "board": {
+    "name": "stellissimo_xilinx_fpga"
+  },
+
+  "config": {
+    "rt": {
+      "iodev": "uart"
+    }
+  }
+
+}
