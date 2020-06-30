@@ -28,10 +28,6 @@
       "is_slave": true,
       "is_dual": true
     },
-    "cpi0": {
-      "type": "cpi",
-      "is_slave": true
-    },
     "i2c0": {
       "type": "i2c",
       "is_master": true
