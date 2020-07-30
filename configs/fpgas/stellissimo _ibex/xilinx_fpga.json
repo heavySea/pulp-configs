@@ -1,0 +1,14 @@
+{
+  "includes": [ "chips/stellissimo/stellissimo_ibex.json" ],
+
+  "board": {
+    "name": "stellissimo_ibex_xilinx_fpga"
+  },
+
+  "config": {
+    "rt": {
+      "iodev": "uart"
+    }
+  }
+
+}
