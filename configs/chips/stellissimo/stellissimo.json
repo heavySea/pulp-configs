@@ -103,22 +103,6 @@
       "base": "0x1A100000",
       "size": "0x00100000",
 
-      "flls": {
-        "fll": {
-          "version"      : 1,
-          "base"         : "0x1A100000",
-          "size"         : "0x00000010",
-          "targets"      : [ "soc" ]
-        },
-
-        "fll_periph": {
-          "version"      : 1,
-          "base"         : "0x1A100010",
-          "size"         : "0x00000010",
-          "targets"      : [ "periph" ]
-        }
-      },
-
       "fll_ctrl": {
         "version"      : 3
       },
