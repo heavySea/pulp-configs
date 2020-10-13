@@ -13,10 +13,6 @@
 
     "vsim": {
       "tcl_args": ["-gCORE_TYPE=1"]
-    },
-
-		"rt": {
-      "iodev": "uart"
     }
 
   }
